@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nagashl
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/he is
+- 💞️ I’m looking to collaborate on basic projects
+- 📫 How to reach me hnespadashin@gmail.com
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
 <!---
