@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nagashl
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me hnespadashin@gmail.com
 - 😄 Pronouns: he/his
